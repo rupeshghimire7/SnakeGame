@@ -9,6 +9,6 @@ Made this game by using python 3.10.0 and Pygame Module.
 # *To play the game*
 Installing Pygame
 - Open Terminal/CMD
-- run '''python3
- pip install pygame / pip3 install pygame
- '''
+- run pip install pygame / pip3 install pygame
+OR
+Try running it from Snake.exe (Other files required too)
