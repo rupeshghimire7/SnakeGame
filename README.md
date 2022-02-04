@@ -12,4 +12,5 @@ Installing Pygame
 - run pip install pygame / pip3 install pygame
 
 OR
+
 Try running it from Snake.exe (Other files required too)
